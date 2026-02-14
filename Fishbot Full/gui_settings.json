@@ -1,0 +1,7 @@
+{
+    "trash_enabled": true,
+    "kill_fish_enabled": true,
+    "gm_detection": false,
+    "multi_window": false,
+    "arduino_mode": "system_mouse"
+}
